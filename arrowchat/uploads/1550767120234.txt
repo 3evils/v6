@@ -1,0 +1,26 @@
+SAM Broadcaster 4.2.2
+
+
+
+
+
+
+
+SAM Broadcaster is a professional DJ system that allows you to stream audio over the internet to listeners across the world. The application is much more than just a "DJ system", providing a complete radio automation solution - a radio station in a box.
+
+Highlights of the program:
+
+* Delivers professional sound with crossfading, gap killer, beat matching, volume normalization and 5-band compressor/limiter
+* Smartly handles large media libraries - sorting them into easy-to-manage categories
+* Advanced playlist rotation logic and scheduling will make your station sound professional - even if you are not in front of your computer
+* Advanced streaming encoders - able to encode MP3, mp3PRO, WM9 and Ogg
+* Support for all major streaming servers, including SHOUTcast, Live365, IceCast, Windows Media and P2P Streamer
+* View statistics in real-time: know how many listeners are connected at any time
+* Interfaces directly with your website to allow automated song requests and improve the experience of your listeners by providing them with Artist, Title, Album, Cover art and other information on songs being played
+* Generate additional revenue with Buy CD links
+
+
+
+Notes
+
+MySQL must already be installed BEFORE you install SAM Broadcaster

@@ -1,0 +1,1 @@
+<?php $bar_background = "333333";$bar_border = "0085C2";$bar_text = "ffffff";$bar_hover = "bdbdbd";$window_title = "5c5a5c";$window_title_focus = "333333";$window_title_hover = "bdbdbd";$window_text = "ffffff";$chat_bubble = "005eff";$chat_bubble_text = "ffffff";$chat_bubble_self = "0000ff";$chat_bubble_self_text = "ffffff"; ?>

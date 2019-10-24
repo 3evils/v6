@@ -1,0 +1,17 @@
+
+===================================================
+ Date: Thu, 22 Aug 2019 02:17:22 +0100
+ Error Number: 1062
+ Error: Duplicate entry 'NUTTYBOB' for key 'username'
+ IP Address: 172.58.200.152
+ in file /var/www/takesignup.php on line 132
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Thu, 29 Aug 2019 13:20:48 +0100
+ Error Number: 1146
+ Error: Table 'trinity.tickets' doesn't exist
+ IP Address: 34.221.48.191
+ in file /var/www/include/cleanup/lotteryclean.php on line 27
+ URL:/
+ Username: []

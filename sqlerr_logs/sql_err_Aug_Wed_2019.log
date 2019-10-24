@@ -1,0 +1,17 @@
+
+===================================================
+ Date: Wed, 21 Aug 2019 06:18:21 +0100
+ Error Number: 0
+ Error: 
+ IP Address: 96.236.130.243
+ in file /var/www/design/1/details.php on line 144
+ URL:/details.php?id=275
+ Username: antimidas[1823]
+===================================================
+ Date: Wed, 28 Aug 2019 09:50:21 +0100
+ Error Number: 1146
+ Error: Table 'trinity.tickets' doesn't exist
+ IP Address: 49.249.249.202
+ in file /var/www/include/cleanup/lotteryclean.php on line 27
+ URL:/index.php?s=/module/action/param1/${@die(md5(HelloThinkPHP))}
+ Username: []

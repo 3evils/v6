@@ -1,0 +1,17 @@
+
+===================================================
+ Date: Sun, 08 Sep 2019 00:50:48 +0100
+ Error Number: 1146
+ Error: Table 'trinity.users' doesn't exist
+ IP Address: 94.23.28.137
+ in file /var/www/include/bittorrent.php on line 446
+ URL:/bot_shoutbox.php
+ Username: []
+===================================================
+ Date: Sun, 08 Sep 2019 08:09:15 +0100
+ Error Number: 1062
+ Error: Duplicate entry 'arne' for key 'username'
+ IP Address: 202.144.201.129
+ in file /var/www/trinity/takesignup.php on line 133
+ URL:/takesignup.php
+ Username: []

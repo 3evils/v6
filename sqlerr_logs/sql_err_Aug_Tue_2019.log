@@ -1,0 +1,73 @@
+
+===================================================
+ Date: Tue, 20 Aug 2019 03:48:43 +0100
+ Error Number: 1062
+ Error: Duplicate entry 'tester' for key 'username'
+ IP Address: 96.236.130.243
+ in file /var/www/takesignup.php on line 132
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Tue, 20 Aug 2019 05:24:00 +0100
+ Error Number: 1062
+ Error: Duplicate entry 'again' for key 'username'
+ IP Address: 96.236.130.243
+ in file /var/www/takesignup.php on line 133
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Tue, 20 Aug 2019 05:34:40 +0100
+ Error Number: 1062
+ Error: Duplicate entry 'poop' for key 'username'
+ IP Address: 96.236.130.243
+ in file /var/www/takesignup.php on line 133
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Tue, 20 Aug 2019 07:53:13 +0100
+ Error Number: 1062
+ Error: Duplicate entry 'NightCrawler' for key 'username'
+ IP Address: 199.229.249.152
+ in file /var/www/takesignup.php on line 132
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Tue, 20 Aug 2019 08:03:12 +0100
+ Error Number: 1146
+ Error: Table 'trinity.tickets' doesn't exist
+ IP Address: 96.236.130.243
+ in file /var/www/lottery/tickets.php on line 59
+ URL:/lottery.php?do=tickets
+ Username: antimidas[1823]
+===================================================
+ Date: Tue, 20 Aug 2019 08:05:54 +0100
+ Error Number: 1146
+ Error: Table 'trinity.tickets' doesn't exist
+ IP Address: 96.236.130.243
+ in file /var/www/lottery/tickets.php on line 59
+ URL:/lottery.php?do=tickets
+ Username: antimidas[1823]
+===================================================
+ Date: Tue, 20 Aug 2019 08:20:06 +0100
+ Error Number: 1062
+ Error: Duplicate entry 'NightCrawler' for key 'username'
+ IP Address: 199.229.249.152
+ in file /var/www/takesignup.php on line 132
+ URL:/takesignup.php
+ Username: []
+===================================================
+ Date: Tue, 20 Aug 2019 08:34:44 +0100
+ Error Number: 1146
+ Error: Table 'trinity.tickets' doesn't exist
+ IP Address: 96.236.130.243
+ in file /var/www/lottery/tickets.php on line 59
+ URL:/lottery.php?do=tickets
+ Username: antimidas[1823]
+===================================================
+ Date: Tue, 27 Aug 2019 07:34:20 +0100
+ Error Number: 1146
+ Error: Table 'trinity.tickets' doesn't exist
+ IP Address: 212.64.35.136
+ in file /var/www/include/cleanup/lotteryclean.php on line 27
+ URL:/
+ Username: []

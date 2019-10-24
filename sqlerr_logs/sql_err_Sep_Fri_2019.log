@@ -1,0 +1,9 @@
+
+===================================================
+ Date: Fri, 06 Sep 2019 22:50:51 +0100
+ Error Number: 1146
+ Error: Table 'trinity.tickets' doesn't exist
+ IP Address: 96.236.130.243
+ in file /var/www/include/cleanup/lotteryclean.php on line 27
+ URL:/
+ Username: antimidas[1823]

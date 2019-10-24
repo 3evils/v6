@@ -1,0 +1,34 @@
+<?php
+/**
+ |--------------------------------------------------------------------------|
+ |   https://github.com/Bigjoos/                                            |
+ |--------------------------------------------------------------------------|
+ |   Licence Info: WTFPL                                                    |
+ |--------------------------------------------------------------------------|
+ |   Copyright (C) 2010 U-232 V5                                            |
+ |--------------------------------------------------------------------------|
+ |   A bittorrent tracker source based on TBDev.net/tbsource/bytemonsoon.   |
+ |--------------------------------------------------------------------------|
+ |   Project Leaders: Mindless, Autotron, whocares, Swizzles.               |
+ |--------------------------------------------------------------------------|
+  _   _   _   _   _     _   _   _   _   _   _     _   _   _   _
+ / \ / \ / \ / \ / \   / \ / \ / \ / \ / \ / \   / \ / \ / \ / \
+( U | - | 2 | 3 | 2 )-( S | o | u | r | c | e )-( C | o | d | e )
+ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/
+ */
+require_once (__DIR__ . DIRECTORY_SEPARATOR . 'include' . DIRECTORY_SEPARATOR . 'bittorrent.php');
+
+require_once INCL_DIR . 'user_functions.php';
+require_once INCL_DIR . 'bbcode_functions.php';
+require_once INCL_DIR . 'html_functions.php';
+require_once ROOT_DIR . 'polls.php';
+require_once (CLASS_DIR . 'class_user_options.php');
+require_once (CLASS_DIR . 'class_user_options_2.php');
+dbconn(true);
+loggedinorreturn();
+
+global $CURUSER, $INSTALLER09;
+
+$HTMLOUT .="<iframe src='./arrowchat/public/popout/index2.php?cid=1&ah=1\'></frame>";
+echo stdhead('Staff', true, $stdhead) . $htmlout . stdfoot();
+?>
