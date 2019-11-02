@@ -7,6 +7,10 @@
   \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/	
 
 ```
+## Update
+31/10/2019
+I will be modifying this source with current omdb/tmdb mods as well as updating it to use bcrypt to hash passwords instead of md5. - AntiMidas
+
 
 U-232 V5 -> High performance Bittorrent tracker
 
